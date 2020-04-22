@@ -10,14 +10,6 @@ iFood HTML CSS
 <p align="center">Watch on <a href="https://www.youtube.com/watch?v=Btkx_7JFKbA">Youtube</a></p>
 
 <div align="center">
-  <img align="center" src="https://github.com/reginaldop/ifood-html-css/blob/master/images/iFood.jpg" height="284">
+  <img align="center" src="https://github.com/reginaldop/ifood-html-css/blob/master/images/iFood.jpg">
 
-</div>
-
-<hr />
-
-## Tutorial Vídeo
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=Btkx_7JFKbA"><img src="https://img.youtube.com/vi/Btkx_7JFKbA/0.jpg"></a>
 </div>
