@@ -10,8 +10,7 @@ iFood HTML CSS
 <p align="center">Watch on <a href="https://www.youtube.com/watch?v=Btkx_7JFKbA">Youtube</a></p>
 
 <div align="center">
-  <img align="center" src="https://github.com/Marlon-Paulo-da-Silva/TikTok-Clone-ReactNative/blob/master/tiktok.gif" alt="demo" height="425">
-  <img align="center" src="https://github.com/Marlon-Paulo-da-Silva/TikTok-Clone-ReactNative/blob/master/tiktokfeed.gif" alt="demo" height="425">
+  <img align="center" src="https://github.com/reginaldop/ifood-html-css/blob/master/images/iFood.png" height="284">
 
 </div>
 
@@ -19,4 +18,6 @@ iFood HTML CSS
 
 ## Tutorial Vídeo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Btkx_7JFKbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Btkx_7JFKbA"><img src="https://img.youtube.com/vi/Btkx_7JFKbA/0.jpg"></a>
+</div>
